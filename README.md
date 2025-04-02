@@ -1,4 +1,4 @@
-👋 Hi, I'm Narayn Prabhu!
+👋 Hi, I'm Narayn Prabhu!\n
 🚀 Web Developer | 🔐 Cybersecurity Expert | 🎓 BCA Student
 Welcome to my GitHub! I'm a passionate Web Developer and Cybersecurity Enthusiast with expertise in building secure and efficient web applications. I love solving complex problems and continuously learning new technologies to improve my skills.
 
