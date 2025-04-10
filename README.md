@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate Web Developer and Cybersecurity Enthusias
 🌐 Other Tools: Git, Linux, Docker, APIs <br><br>
 
 📫 Connect With Me!<br>
-🔗 GitHub: github.com/narayn07<br>
+🔗 GitHub: https://github.com/narayn07<br>
 💼 LinkedIn: https://www.linkedin.com/in/naraynprabhu/<br>
 📧 Email: naryanprbahu44@gmail.com<br><br>
 
