@@ -1,6 +1,3 @@
-<style>
-  background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F459225%2Fpexels-photo-459225.jpeg%3Fcs%3Dsrgb%26dl%3Ddaylight-environment-forest-459225.jpg%26fm%3Djpg&f=1&nofb=1&ipt=7422467e6c469a7ffcc3dfa3233291f4092b7b3593acefc54b7c2835573dcc32");
-</style>
 <big>👋<big> <b>Hi, I'm Narayn Prabhu!<b> <br>
 🚀 Web Developer | 🔐 Cybersecurity Expert | 🎓 BCA Student <br>
 Welcome to my GitHub! I'm a passionate Web Developer and Cybersecurity Enthusiast with expertise in building secure and efficient web applications. I love solving complex problems and continuously learning new technologies to improve my skills. <br><br>
