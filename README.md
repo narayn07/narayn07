@@ -9,8 +9,8 @@ Welcome to my GitHub! I'm a passionate Web Developer and Cybersecurity Enthusias
 🔹 Cybersecurity Focus: Network Security, Ethical Hacking, Data Protection<br>
 <br>
 🛠️ Tech Stack<br>
-💻 Frontend: HTML, CSS, JavaScript, React<br>
-⚙️ Backend: Node.js, Express.js<br>
+💻 Frontend: HTML, CSS, JavaScript, React, Java<br>
+⚙️ Backend: Node.js<br>
 🗄️ Database: MySQL <br>
 🔐 Security: Ethical Hacking, Penetration Testing, Data Encryption <br>
 🌐 Other Tools: Git, Linux, Docker, APIs <br><br>
