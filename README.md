@@ -5,11 +5,11 @@ Welcome to my GitHub! I'm a passionate Web Developer and Cybersecurity Enthusias
 👨‍💻 About Me<br> 
 🔹 Education: BCA Student<br>
 🔹 Expertise: Web Development, Cybersecurity, Ethical Hacking<br>
-🔹 Technologies: HTML, CSS, JavaScript, Python, Flask, MySQL, APIs<br>
+🔹 Technologies: HTML, CSS, JavaScript, Python, Flask, MySQL, Java<br>
 🔹 Cybersecurity Focus: Network Security, Ethical Hacking, Data Protection<br>
 <br>
 🛠️ Tech Stack<br>
-💻 Frontend: HTML, CSS, JavaScript, React, Java<br>
+💻 Frontend: HTML, CSS, JavaScript, Java<br>
 ⚙️ Backend: Node.js<br>
 🗄️ Database: MySQL <br>
 🔐 Security: Ethical Hacking, Penetration Testing, Data Encryption <br>
